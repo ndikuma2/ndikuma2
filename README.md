@@ -15,4 +15,3 @@ My name is Peter Awambeng and I am currently looking for a role as an Azure Clou
 ---
 [![](https://visitcount.itsvg.in/api?id=ndikuma2&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
